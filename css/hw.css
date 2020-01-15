@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Red+Hat+Display&display=swap);
+
+body {
+  text-align: center;
+  background-color: #e3e3e3;
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 100;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.btn-circle {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+  font-size: 16px;
+  white-space: normal;
+        }
+
+.obertka{
+  margin-top:60px;
+  height:500px;
+  width: 800px;
+  border-style:ridge;
+  border-color:#8a00d4;
+  border-width: 15px;
+  display: inline-block;
+}
+
+p{
+  margin: 0;
+}
+
+.i1{
+  margin-top: 50px;
+}
+
+.result{
+  display: none;
+}
+
+.restart{
+  height: 40px;
+  width: 200px;
+  margin-bottom: 30px;
+  margin-top:30px;
+}
+
+.countdown-title {
+  color: #8a00d4;
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
+ 
+.countdown {
+  color: #fff;
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+}
+ 
+.countdown-number {
+  padding: 10px;
+  border-radius: 3px;
+  background-color: #9854cb;
+  display: inline-block;
+}
+ 
+.countdown-time {
+  padding: 15px;
+  border-radius: 3px;
+  background-color: #64379f;
+  display: inline-block;
+}
+ 
+.countdown-text {
+  display: block;
+  padding-top: 5px;
+  font-size: 20px;
+}
+
+.message{
+  color: rgb(57, 20, 175);
+  font-weight: 400;
+  font-size: 28px;
+}
+
+button{
+  margin-top: 30px;
+  padding: 8px 10px;
+  border-radius: 50px;
+  border: 2px solid rgb(65, 44, 132);
+  background-color: white;
+}
+
+.restart{
+  display: None;
+}
